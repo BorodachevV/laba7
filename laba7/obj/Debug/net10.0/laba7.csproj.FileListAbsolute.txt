@@ -1,0 +1,14 @@
+D:\programming\VS projects\rpm\laba7\bin\Debug\net10.0\laba7.exe
+D:\programming\VS projects\rpm\laba7\bin\Debug\net10.0\laba7.deps.json
+D:\programming\VS projects\rpm\laba7\bin\Debug\net10.0\laba7.runtimeconfig.json
+D:\programming\VS projects\rpm\laba7\bin\Debug\net10.0\laba7.dll
+D:\programming\VS projects\rpm\laba7\bin\Debug\net10.0\laba7.pdb
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\laba7.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\laba7.AssemblyInfoInputs.cache
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\laba7.AssemblyInfo.cs
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\laba7.csproj.CoreCompileInputs.cache
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\laba7.dll
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\refint\laba7.dll
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\laba7.pdb
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\laba7.genruntimeconfig.cache
+D:\programming\VS projects\rpm\laba7\obj\Debug\net10.0\ref\laba7.dll

@@ -1,0 +1,10 @@
+<div class='alert'>
+  <span class='time'>2026-04-01 19:46:57</span>
+  <span class='msg'>Внимание! Событие: Memory_Usage_Exceeded | Детали: Metric: Memory_Usage, Value: 95.5 (Threshold: 85)</span>
+</div>
+----------------------------------------
+<div class='alert'>
+  <span class='time'>2026-04-01 19:46:57</span>
+  <span class='msg'>Внимание! Событие: Network_Traffic_Exceeded | Детали: Metric: Network_Traffic, Value: 1024 (Threshold: 500)</span>
+</div>
+----------------------------------------
